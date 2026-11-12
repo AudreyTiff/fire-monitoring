@@ -10,11 +10,16 @@ This data science project cleans, analyses, and viusalises fire spots in Victori
 - Prediction of future fire activities from existing fire events
 - Visualisations streaming for better display
 
-__Images__
+__Firespots Mapping__
 ![firespots mapping](display/image.png)
+
+__Firespots Mapping - Spot Hovered__
 ![firespot mapping hover info](display/image-1.png)
 
+__Clustered Events__
 ![clustered events](display/image-2.png)
+
+__Clustered Events - Spot Hovered__
 ![clustered events hover info](display/image-3.png)
 
 ## Future developments
